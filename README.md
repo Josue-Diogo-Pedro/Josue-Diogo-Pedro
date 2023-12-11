@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="linkedin.com/in/josué-diogo-pedro-b0ba45201">Josué Diogo Pedro 😃️</a>
+    <a href="in/josué-diogo-pedro-b0ba45201">Josué Diogo Pedro 😃️</a>
   </h1>
   <h3> .NET DEVELOPER </h3>
   <p align="left">
@@ -37,8 +37,3 @@
   
 </div>
 
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
